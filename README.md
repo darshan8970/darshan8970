@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Real time collaborative document editor<br>👯 I’m looking to collaborate on new web dev projects<br>🤝 I’m looking for help with my project<br>🌱 I’m currently learning DSA in Java
+- I’m currently working on Real time collaborative document editor<br>- I’m looking to collaborate on new web dev projects<br>- I’m looking for help with my project<br>- I’m currently learning DSA in Java
 
 
 ## 🌐 Socials:
