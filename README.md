@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Darshan A] 👋
 
 I am an AI & Machine Learning student focusing on building intelligent systems, data pipelines, and autonomous AI agents. I am shifting my core focus from full-stack web development to solving complex problems using machine learning, deep learning, and generative AI.
 
@@ -15,13 +15,13 @@ I am an AI & Machine Learning student focusing on building intelligent systems, 
 
 ### 🚀 Featured AI/ML Projects
 
-#### 🤖 [Project Name 1: e.g., Autonomous AI Agent or RAG Pipeline]
+#### 🤖 1: Autonomous AI Agent or RAG Pipeline]
 *Brief 1-2 sentence description of what the project does and the problem it solves.*
 - **Tech Stack:** PyTorch, LangChain, Vector Databases (e.g., Chroma/Pinecone)
 - **Key Outcome:** Achieved [X]% accuracy or optimized data retrieval by [Y]%.
 - [👉 View Repository](#)
 
-#### 📊 [Project Name 2: e.g., Deep Learning Image Classifier or Classical ML App]
+#### 📊 2 Deep Learning Image Classifier or Classical ML App]
 *Brief 1-2 sentence description of the model architecture or data insights.*
 - **Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas
 - **Key Outcome:** Handled [X] dataset size, implementing custom preprocessing pipelines.
@@ -39,7 +39,7 @@ I am an AI & Machine Learning student focusing on building intelligent systems, 
 
 ### 🤝 Connect with Me
 
-- **LinkedIn:** [link-to-your-profile](https://linkedin.com/in/yourusername)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio:** [link-to-your-portfolio](https://yourportfolio.com)
+- **LinkedIn:** [link-to-your-profile](https://www.linkedin.com/in/darshan897038/)
+- **Email:** [your.email@example.com](mailto:darshanhere7090@gmail.com)
+- **Portfolio:** [link-to-your-portfolio](https://www.linkedin.com/in/darshan897038/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
