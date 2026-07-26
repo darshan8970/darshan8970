@@ -33,32 +33,21 @@ $ boot darshan_ai_engineer.iso
 
 ### 🧭 Currently Charting
 
-<table align="center">
-<tr>
-<td>
-
 **Learning stack**
-```
-Python        [########--]  in progress
-SQL           [######----]  in progress
-Linux / CLI   [#######---]  in progress
-Git           [########--]  in progress
-Core DSA      [#####-----]  in progress
-```
 
-</td>
-<td>
+| Skill | Progress | Status |
+|---|---|---|
+| Python | `[########--]` | in progress |
+| SQL | `[######----]` | in progress |
+| Linux / CLI | `[#######---]` | in progress |
+| Git | `[########--]` | in progress |
+| Core DSA | `[#####-----]` | in progress |
 
 **Roadmap**
-```
-Foundations  → Core ML → Deep Learning
-    → LLMs / GenAI → RAG → AI Agents
-        → MLOps
-```
+
+`Foundations → Core ML → Deep Learning → LLMs/GenAI → RAG → AI Agents → MLOps`
+
 DSA & System Design run in parallel throughout.
-</td>
-</tr>
-</table>
 
 > 📌 **180-Day Build-in-Public Challenge** — posting on LinkedIn 3x/week
 > (Learning → Building → Reflecting, on rotation).
@@ -80,20 +69,50 @@ DSA & System Design run in parallel throughout.
 
 ---
 
-### 📊 GitHub Analytics
+### 📡 GitHub Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshan8970&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan8970&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=C9D1D9&langs_count=8"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan8970&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
-</p>
+```
+$ cat ./github_stats.log
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan8970&bg_color=0D1117&color=2DD4BF&line=F5A623&point=C9D1D9&hide_border=true&area=true"/>
-</p>
+</div>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+**Snapshot**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=darshan8970&show_icons=true&hide_border=true&hide=contribs&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF"/>
+
+</td>
+<td valign="top">
+
+**Consistency**
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan8970&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Language Fingerprint**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan8970&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=C9D1D9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+**Activity Pulse**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan8970&bg_color=0D1117&color=2DD4BF&line=F5A623&point=C9D1D9&hide_border=true&area=true"/>
+
+</div>
 
 <!--
   🐍 Contribution snake (graphite/amber/teal themed).
