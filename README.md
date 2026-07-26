@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <!-- ANIMATED CYBERPUNK HEADER BANNER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Line Animation"/>
@@ -16,7 +16,7 @@
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&pause=1000&color=00F5FF&background=0D111700&center=true&vCenter=true&width=750&lines=%3E_INITIALIZING_NEURAL_CORE...;%3E_BUILDING_PRODUCTION_READY_AI_%2F_ML_SYSTEMS;%3E_PROJECT%3A_REAL-TIME_COLLABORATIVE_DOC_EDITOR;%3E_COGNIZANT_AI_SIMULATION_COMPLETED;%3E_EXECUTING%3A_CURIOSITY.EXE_%E2%86%92_INTELLIGENCE.EXE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&pause=1000&color=00F5FF&background=0D111700&center=true&vCenter=true&width=750&lines=%3E_INITIALIZING_NEURAL_CORE...;%3E_BUILDING_PRODUCTION_READY_AI_%2F_ML_SYSTEMS;%3E_EXECUTING%3A_CURIOSITY.EXE_%E2%86%92_INTELLIGENCE.EXE" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -68,33 +68,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </div>
-
----
-
-### 🔬 ACTIVE LABS & EXPERIMENTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛰️ Real-Time Collaborative Doc Editor
-> *High-concurrency collaborative editing platform with real-time state synchronization, optimized for scale and low latency.*
-
-* ⚡ **Tech Stack:** WebSockets, Node.js, Distributed System Principles
-* 🎯 **Focus:** System Design, Concurrency, Real-Time Data Pipeline
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 Cognizant AI Simulation
-> *Applied predictive modeling, dataset analysis, and machine learning pipeline optimization for enterprise-level tasks.*
-
-* ⚡ **Tech Stack:** Python, Scikit-Learn, Predictive Analytics
-* 🎯 **Focus:** Practical AI Deployment, Feature Engineering
-
-</td>
-</tr>
-</table>
 
 ---
 
