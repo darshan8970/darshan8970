@@ -26,7 +26,7 @@ $ boot darshan_ai_engineer.iso
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+Computer+Science+%40+VTU+(2023-2027);Pivoting+from+Web+Dev+%E2%86%92+AI%2FML+Engineering;Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge;Chasing+GSoC+2027+%40+ML4SCI+%2F+HumanAI" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+Computer+Science+%40+VTU+(2023-2027);Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge;Chasing+GSoC+2027+%40+ML4SCI+%2F+HumanAI" alt="typing-svg" />
 </p>
 
 ---
