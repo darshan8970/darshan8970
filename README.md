@@ -39,11 +39,11 @@ $ boot darshan_ai_engineer.iso
 
 **Learning stack**
 ```
-Python        ▓▓▓▓▓▓▓▓░░  in progress
-SQL           ▓▓▓▓▓▓░░░░  in progress
-Linux / CLI   ▓▓▓▓▓▓▓░░░  in progress
-Git           ▓▓▓▓▓▓▓▓░░  in progress
-Core DSA      ▓▓▓▓▓░░░░░  in progress
+Python        [########--]  in progress
+SQL           [######----]  in progress
+Linux / CLI   [#######---]  in progress
+Git           [########--]  in progress
+Core DSA      [#####-----]  in progress
 ```
 
 </td>
