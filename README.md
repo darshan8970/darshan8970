@@ -11,13 +11,24 @@
 </p>
 
 <p align="center">
-I build data pipelines, deep learning models, and AI agents — and I'm documenting every step of it in public.
+
+`Foundations` → `Core ML` → `Deep Learning` → `LLMs/GenAI` → `RAG` → `AI Agents` → `MLOps`
+<br/><sub>DSA & System Design running in parallel the whole way.</sub>
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshan897038/"><img src="https://img.shields.io/badge/LinkedIn-connect-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
-  <a href="https://darshanaiml.dev"><img src="https://img.shields.io/badge/Portfolio-visit-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
-  <a href="mailto:darshanhere7090@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-1A1A1A?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
+📌 <b>180 Days. 3 Posts a Week. Zero Skipped Steps.</b><br/>
+<sub>Learning → Building → Reflecting — on rotation, out loud, on LinkedIn.</sub>
+</p>
+
+<p align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan897038/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
+  <a href="https://darshanaiml.dev"><img src="https://img.shields.io/badge/Website-Visit-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
+  <a href="https://leetcode.com/u/Darshan8970/"><img src="https://img.shields.io/badge/LeetCode-Profile-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
+  <a href="mailto:darshanhere7090@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
+</p>
 </p>
 
 <p align="center">
