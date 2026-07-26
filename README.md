@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- ANIMATED CYBERPUNK HEADER BANNER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Cyber Line Animation"/>
@@ -34,10 +34,15 @@ div align="center">
 
 ### 🤖 SYSTEM DIAGNOSTICS & ROADMAP
 
-========================================================================================
+
+```
+
+# ========================================================================================
 [+] SYSTEM STATUS : ONLINE 🟢
 [+] ARCHITECTURE  : DEEP LEARNING / GEN AI / MLOPS PIPELINES
 [+] CURRENT GOAL  : BRIDGING THE GAP BETWEEN THEORETICAL ML & PRODUCTION SYSTEMS
+
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/01_Foundations-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF" /> ➔
@@ -77,3 +82,11 @@ div align="center">
 
 ```bash
 $ cat /sys/kernel/debug/darshan_activity.log
+
+```
+
+#### ⚡ CONTINUOUS CODE FREQUENCY
+
+#### 🐍 NEURAL SNAKE MATRIX
+
+---
