@@ -26,7 +26,7 @@ $ boot darshan_ai_engineer.iso
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+Computer+Science+%40+VTU+(2023-2027);Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge;Chasing+GSoC+2027+%40+ML4SCI+%2F+HumanAI" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+Computer+Science+%40+VTU+(2023-2027);Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge" alt="typing-svg" />
 </p>
 
 ---
@@ -35,19 +35,23 @@ $ boot darshan_ai_engineer.iso
 
 **Learning stack**
 
-| Skill | Progress | Status |
-|---|---|---|
-| Python | `[########--]` | in progress |
-| SQL | `[######----]` | in progress |
-| Linux / CLI | `[#######---]` | in progress |
-| Git | `[########--]` | in progress |
-| Core DSA | `[#####-----]` | in progress |
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=PYTHON&width=450&color=F5A623&suffix=%25"/><br/>
+  <img src="https://progress-bar.dev/60/?title=SQL&width=450&color=2DD4BF&suffix=%25"/><br/>
+  <img src="https://progress-bar.dev/70/?title=LINUX+%2F+CLI&width=450&color=F5A623&suffix=%25"/><br/>
+  <img src="https://progress-bar.dev/80/?title=GIT&width=450&color=2DD4BF&suffix=%25"/><br/>
+  <img src="https://progress-bar.dev/50/?title=CORE+DSA&width=450&color=F5A623&suffix=%25"/>
+</p>
 
 **Roadmap**
 
-`Foundations → Core ML → Deep Learning → LLMs/GenAI → RAG → AI Agents → MLOps`
+<p align="center">
 
-DSA & System Design run in parallel throughout.
+`Foundations` → `Core ML` → `Deep Learning` → `LLMs/GenAI` → `RAG` → `AI Agents` → `MLOps`
+
+</p>
+
+<p align="center"><sub>DSA & System Design run in parallel throughout.</sub></p>
 
 > 📌 **180-Day Build-in-Public Challenge** — posting on LinkedIn 3x/week
 > (Learning → Building → Reflecting, on rotation).
