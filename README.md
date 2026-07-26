@@ -4,20 +4,15 @@
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/B.E.%20CS-VTU%20%2723%E2%80%9327-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-1A1A1A?style=for-the-badge&labelColor=0D1117&color=2DD4BF"/>
+  <img src="https://img.shields.io/badge/Building%20in%20Public-180%20Day%20Challenge-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
+</p>
 
-```
-$ boot darshan_ai_engineer.iso
-
-[ OK ]  Mounted  /skills/python  /skills/sql  /skills/linux  /skills/git  /skills/dsa
-[ OK ]  Killed   process: full-stack-web-dev
-[ OK ]  Started  180-day-ml-challenge.service      [running]
-[ OK ]  Started  gsoc-2027-prep.service            [target: ML4SCI, HumanAI]
-[INFO]  Portfolio mounted at → darshanaiml.dev
-[ OK ]  System ready. Welcome, Darshan.
-```
-
-</div>
+<p align="center">
+I build data pipelines, deep learning models, and AI agents — and I'm documenting every step of it in public.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshan897038/"><img src="https://img.shields.io/badge/LinkedIn-connect-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
@@ -36,11 +31,11 @@ $ boot darshan_ai_engineer.iso
 **Learning stack**
 
 <p align="center">
-  <img src="https://progress-bar.dev/80/?title=PYTHON&width=450&color=F5A623&suffix=%25"/><br/>
-  <img src="https://progress-bar.dev/60/?title=SQL&width=450&color=2DD4BF&suffix=%25"/><br/>
-  <img src="https://progress-bar.dev/70/?title=LINUX+%2F+CLI&width=450&color=F5A623&suffix=%25"/><br/>
-  <img src="https://progress-bar.dev/80/?title=GIT&width=450&color=2DD4BF&suffix=%25"/><br/>
-  <img src="https://progress-bar.dev/50/?title=CORE+DSA&width=450&color=F5A623&suffix=%25"/>
+  <img src="https://img.shields.io/badge/Python-80%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
+  <img src="https://img.shields.io/badge/SQL-60%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
+  <img src="https://img.shields.io/badge/Linux%20%2F%20CLI-70%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
+  <img src="https://img.shields.io/badge/Git-80%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
+  <img src="https://img.shields.io/badge/Core%20DSA-50%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/>
 </p>
 
 **Roadmap**
@@ -104,14 +99,6 @@ $ cat ./github_stats.log
 
 <div align="center">
 
-**Language Fingerprint**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan8970&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A623&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 **Activity Pulse**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan8970&bg_color=0D1117&color=2DD4BF&line=F5A623&point=C9D1D9&hide_border=true&area=true"/>
@@ -126,15 +113,6 @@ $ cat ./github_stats.log
 <p align="center">
   <img src="https://raw.githubusercontent.com/darshan8970/darshan8970/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
----
-
-### 🎯 GSoC 2027 — Target Locked
-
-| Org | Focus Area | Status |
-|---|---|---|
-| **ML4SCI** | ML for Science (physics/astro applications) | 🔭 researching |
-| **HumanAI** | AI for humanities & social good | 🔭 researching |
 
 ---
 
