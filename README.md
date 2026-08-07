@@ -110,20 +110,5 @@ $ cat ./github_stats.log
 
 <div align="center">
 
-**Activity Pulse**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan8970&bg_color=0D1117&color=2DD4BF&line=F5A623&point=C9D1D9&hide_border=true&area=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=darshan8970&label=PROFILE%20VIEWS&color=1A1A1A&style=for-the-badge&labelColor=0D1117" />
-</div>
-
-<div align="center">
-<sub>Currently compiling: curiosity.exe → intelligence.exe — thanks for stopping by 🛰️</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:0D1117&height=100&section=footer" width="100%"/>
 
 
