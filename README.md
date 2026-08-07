@@ -116,17 +116,6 @@ $ cat ./github_stats.log
 
 </div>
 
-<!--
-  🐍 Contribution snake (graphite/amber/teal themed).
-  To activate: add .github/workflows/snake.yml (template below) — GitHub Actions
-  will generate these two SVGs automatically on a daily schedule.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darshan8970/darshan8970/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=darshan8970&label=PROFILE%20VIEWS&color=1A1A1A&style=for-the-badge&labelColor=0D1117" />
 </div>
@@ -137,8 +126,4 @@ $ cat ./github_stats.log
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:0D1117&height=100&section=footer" width="100%"/>
 
-i have pasted my readme section of the github profile
 
-completely remove the section i have showed in the images
-
-and the the complete readme file in diffrent animated, crazy looking profile  for me please
