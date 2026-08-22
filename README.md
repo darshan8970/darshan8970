@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CS-VTU%20%2723%E2%80%9327-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
+  <img src="https://img.shields.io/badge/B.E.%20AI&ML-VTU%20%2723%E2%80%9327-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-1A1A1A?style=for-the-badge&labelColor=0D1117&color=2DD4BF"/>
   <img src="https://img.shields.io/badge/Building%20in%20Public-180%20Day%20Challenge-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
 </p>
