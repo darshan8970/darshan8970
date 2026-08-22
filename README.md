@@ -12,7 +12,7 @@
 
 <p align="center">
 
-`Foundations` → `Core ML` → `Deep Learning` → `LLMs/GenAI` → `RAG` → `AI Agents` → `MLOps`
+`Foundations` → `Core ML` → `Deep Learning` → `LLM Fine-Tuning + RAG`
 <br/><sub>DSA & System Design running in parallel the whole way.</sub>
 
 </p>
