@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+AI+ML+%40+VTU+(2023-2027);Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A623&background=0D1117&center=true&vCenter=true&width=650&lines=B.E.+AI+&+ML+%40+VTU+(2023-2027);Building+in+public%3A+Day+X+of+the+180-Day+ML+Challenge" alt="typing-svg" />
 </p>
 
 ---
