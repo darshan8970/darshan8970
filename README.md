@@ -79,36 +79,20 @@
 
 ---
 
-### 📡 GitHub Snapshot
+### 🛰️ GitHub Snapshot
 
 <div align="center">
 
-```
+```bash
 $ cat ./github_stats.log
 ```
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top">
-
-**Snapshot**
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=darshan8970&show_icons=true&hide_border=true&hide=contribs&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF"/>
-
-</td>
-<td valign="top">
-
-**Consistency**
-<br/>
-<img src="https://streak-stats.demolab.com?user=darshan8970&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=F5A623&sideNums=2DD4BF&dates=8B949E" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan8970&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://streak-stats.demolab.com?user=darshan8970&hide_border=true&theme=dark&background=00000000&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=F5A623&sideNums=2DD4BF&dates=8B949E" height="165" />
+</p>
 
 
 
