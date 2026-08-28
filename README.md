@@ -102,7 +102,7 @@ $ cat ./github_stats.log
 
 **Consistency**
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan8970&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
+<img src="https://streak-stats.demolab.com?user=darshan8970&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=F5A623&sideNums=2DD4BF&dates=8B949E" />
 
 </td>
 </tr>
