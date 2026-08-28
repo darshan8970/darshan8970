@@ -90,7 +90,10 @@ $ cat ./github_stats.log
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan8970&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-darshan8970-1A1A1A?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0D1117&color=F5A623" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=darshan8970&hide_border=true&theme=dark&background=00000000&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=F5A623&sideNums=2DD4BF&dates=8B949E" height="165" />
 </p>
 
