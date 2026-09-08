@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-📌 <b>180 Days. 3 Posts a Week. Zero Skipped Steps.</b><br/>
+📌 <b>180 Days. 2-3 Posts a Week. Zero Skipped Steps.</b><br/>
 <sub>Learning → Building → Reflecting — on rotation, out loud, on LinkedIn.</sub>
 </p>
 
@@ -37,19 +37,7 @@
 
 ---
 
-### 🧭 Currently Charting
-
-**Learning stack**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
-  <img src="https://img.shields.io/badge/SQL-70%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
-  <img src="https://img.shields.io/badge/Linux%20%2F%20CLI-70%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
-  <img src="https://img.shields.io/badge/Git-95%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
-  <img src="https://img.shields.io/badge/Core%20DSA-50%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/>
-</p>
-
-**Roadmap**
+### Roadmap
 
 <p align="center">
 
@@ -59,7 +47,7 @@
 
 <p align="center"><sub>DSA & System Design run in parallel throughout.</sub></p>
 
-> 📌 **180-Day Build-in-Public Challenge** — posting on LinkedIn 3x/week
+> 📌 **180-Day Build-in-Public Challenge** — posting on LinkedIn 2-3x/week
 > (Learning → Building → Reflecting, on rotation).
 
 ---
